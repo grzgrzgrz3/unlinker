@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.grzgrzgrz3.unlinker.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.grzgrzgrz3.unlinker.MyBundle
 
 class MyApplicationService {
 
